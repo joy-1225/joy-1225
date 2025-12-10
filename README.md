@@ -10,19 +10,19 @@ I am dedicated to solving real-world problems by building scalable applications 
 
 ### Technical Skills
 
-**Languages**
+**Languages:**
 `Python`, `JavaScript`, `Java`
 
-**Artificial Intelligence & Machine Learning**
+**Artificial Intelligence & Machine Learning:**
 `Hugging Face Transformers`, `NLP`, `Supervised ML`, `OpenCV`, `Mediapipe`, `NumPy`, `Pandas`
 
-**Web Development**
+**Web Development:**
 `React.js`, `Node.js`, `Express.js`, `Django`, `RESTful APIs`, `HTML`, `CSS`, `Tailwind CSS`
 
-**Databases**
+**Databases:**
 `MongoDB`, `PostgreSQL`, `MySQL`, `SQLite`
 
-**Tools**
+**Tools:**
 `Git`, `GitHub`, `Postman`, `Web Scraping (BeautifulSoup)`, `Data Visualization`
 
 ---
