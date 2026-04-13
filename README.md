@@ -26,13 +26,7 @@ I enjoy building full-stack applications and exploring AI/ML systems.
 
 ---
 
-### 📊 GitHub Stats
-
-![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=joy-1225&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
----
-
 ### 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-joy--patel-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joy-patel-897431311/)
-[![Email](https://img.shields.io/badge/Email-joy.patel12421%40gmail.com-red?style=flat&logo=gmail)](mailto:joy.patel12421@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/joy-patel-897431311/
+- Email: joy.patel12421@gmail.com
