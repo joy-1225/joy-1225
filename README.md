@@ -28,7 +28,7 @@ I enjoy building full-stack applications and exploring AI/ML systems.
 
 ### 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=joy-1225&theme=dark&hide_border=true)](https://git.io/streak-stats)
+![Joy's GitHub stats](https://github-readme-stats.vercel.app/api?username=joy-1225&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ---
 
